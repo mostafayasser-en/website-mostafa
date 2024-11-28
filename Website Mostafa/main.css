@@ -1,0 +1,35 @@
+div{
+    text-align:center ;
+    border: 8px rgb(211, 159, 62) solid;
+    border-radius: 10px;
+    width: 180px;
+    margin: auto;
+    padding: 15px;
+
+}
+img{
+    width: 180px;
+    height: 190px;
+}
+h3 {
+    color: rgb(56, 56, 88);
+}
+p{
+    color:#aaa7a7;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    font-size: 30px;
+    font-weight: bolder;
+    border: none;
+    color: #aaa7a7;
+    outline: none;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+    background-color: rgb(211, 159, 62) ;
+}
+button:hover{
+    background-color: black;
+    color: yellow;
+}
